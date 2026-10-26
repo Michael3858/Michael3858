@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="32" viewBox="0 0 76 32" role="img" aria-labelledby="title">
+  <title id="title">Linux</title>
+  <rect x="0.5" y="0.5" width="75" height="31" rx="8" fill="#161e2c" stroke="#303b4b"/>
+  <circle cx="14" cy="16" r="3.5" fill="#dfce7b"/>
+  <text x="27" y="20.5" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Linux</text>
+</svg>
